@@ -1,0 +1,21 @@
+.text-center{
+  text-align: center;
+}
+
+.text-right{
+  text-align: right;
+}
+
+.edge{
+  background: green;
+  border-color: black;
+  border-width: 5px;
+  border-style: groove;
+  height: 55px;
+}
+
+#title{
+  text-align: center; 
+  padding-top: 20px;
+  text-decoration:blink;
+}
