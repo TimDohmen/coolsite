@@ -26,3 +26,41 @@
 .bot-margin{
   margin-top: 0px
 }
+
+.inline-block{
+    display: inline-block;
+    padding: 10px;
+    height: 200px;
+    width: 200px;
+    flex-wrap:wrap;
+    float: right;
+    padding-right: 200px;
+  
+}
+
+.main-block{    
+    display: inline-block;
+    padding-left: 10px;
+    width: 500px;
+    flex-wrap:wrap;
+    float: left;
+    padding-left: 150px;
+    text-align: justify
+  }
+  
+  #bar{
+    background:burlywood;
+    height: 20px;
+    width: 500px;
+  }
+
+  .footer{
+      background: green;
+  border-color: black;
+  border-width: 5px;
+  border-style: groove;
+  height: 70px;
+  margin-top: 575px
+  }
+
+  
