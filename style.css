@@ -20,15 +20,18 @@
 }
 
 .top-margin{
-  margin-bottom: 0px
+  margin-bottom: 0px;
 }
 
 .bot-margin{
-  margin-top: 0px
+  margin-top: 0px;
+  margin-bottom: 0px;
+
 }
 
 .inline-block{
     display: inline-block;
+    
     padding: 10px;
     height: 200px;
     width: 200px;
@@ -44,7 +47,7 @@
     width: 500px;
     flex-wrap:wrap;
     float: left;
-    padding-left: 150px;
+    padding-left: 250px;
     text-align: justify
   }
   
@@ -60,7 +63,7 @@
   border-width: 5px;
   border-style: groove;
   height: 70px;
-  margin-top: 575px
+  margin-top: 625px
   }
 
   
