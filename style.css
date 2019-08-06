@@ -17,5 +17,12 @@
 #title{
   text-align: center; 
   padding-top: 20px;
-  text-decoration:blink;
+}
+
+.top-margin{
+  margin-bottom: 0px
+}
+
+.bot-margin{
+  margin-top: 0px
 }
